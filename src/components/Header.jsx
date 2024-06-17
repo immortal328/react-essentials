@@ -1,4 +1,5 @@
 import reactImg from '../assets/react-core-concepts.png';
+import '../css/Header.css'
 
 function Header(){
   return (
