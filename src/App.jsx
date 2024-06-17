@@ -2,12 +2,6 @@ import Header from './component/Header.js';
 import CoreConcept from './component/CoreConcept.js';
 import {CORE_CONCEPTS} from './data.js'
 
-// import components  from './assets/components.png';
-// import jsx  from './assets/jsx-ui.png';
-// import config  from './assets/config.png';
-// import stateMngmnt  from './assets/state-mgmt.png';
-
-
 function App() {
   return (
     <div>
